@@ -1,0 +1,5 @@
+**/tests.py
+**/test.py
+**/migrations/**
+**/*.pyc
+**/db.sqlite3

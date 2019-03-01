@@ -1,0 +1,9 @@
+django
+djangorestframework
+ingressAPI
+selenium
+psycopg2
+psycopg2-binary
+celery
+django-background-tasks
+Pillow

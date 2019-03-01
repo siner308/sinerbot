@@ -1,0 +1,11 @@
+version: '2'
+services:
+  django:
+    build: .
+#    volumes:
+#    - ./:/app
+    container_name: sinerbot
+    ports:
+    - "80:8000"
+    command:
+    - ./start
